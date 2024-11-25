@@ -27,3 +27,4 @@ public class PrimeNumberLessThanN {
         System.out.println();
     }
 }
+
