@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Solution {
+class NQueensProblem {
     public static boolean isSafe(int row, int col, char[][] board) {
         for (int j = 0; j < board.length; j++) {
             if (board[row][j] == 'Q') {
