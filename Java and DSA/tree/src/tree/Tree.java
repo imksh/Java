@@ -59,7 +59,9 @@ public class Tree
 		{
 			return;
 		}
+
 		displayHelper(node.right, level+1);
+
 		if(level!=0)
 		{
 			for(int i=0;i<level-1;i++)
@@ -68,7 +70,8 @@ public class Tree
 			}
 			System.out.println("|------->" + node.val);
 			
-		}else
+		}
+        else
 		{
 			System.out.println(node.val);
 		}

@@ -21,11 +21,11 @@ public class Main
 //		bst.populate(nums);
 		bst.populateSorted(nums);
 		bst.display();
-		bst.preOrder();
-		bst.inOrder();
-		bst.posrOrder();
-		System.out.println(bst.balanced());
-		System.out.println(bst.height());
+//		bst.preOrder();
+//		bst.inOrder();
+//		bst.posrOrder();
+//		System.out.println(bst.balanced());
+//		System.out.println(bst.height());
 	}
 
 }

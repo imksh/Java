@@ -1,4 +1,5 @@
 {
-  "java.project.sourcePaths": ["practice/src"],
-  "java.project.referencedLibraries": []
+  "java.project.sourcePaths": ["Java and DSA/arrayList/src/sheet1"],
+  "java.project.outputPath": "bin",
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
